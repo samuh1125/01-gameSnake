@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+#gameCanvas {
+    margin: 0 auto;
+    border: 2px solid #0041f3; /* Borde */
+    background-color: #f0f0f0; /* Color de fondo */
+    border: 2px solid #333; /* Borde sólido de 2px de ancho */
+    border-radius: 2px; /* Esquinas redondeadas */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1); /
+}
+
+.scoreBlock .levelBlock {
+    font-size: 25px;
+}
